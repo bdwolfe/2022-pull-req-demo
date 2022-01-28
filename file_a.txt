@@ -1,1 +1,1 @@
-This is a file to demo pull requests. This is the first line in the file.
+This is a file to demonstrate pull requests in COMP 452. This is the first line in the file.
