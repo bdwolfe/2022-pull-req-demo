@@ -1,3 +1,6 @@
 // This is a second file that I added under "featureTwo" branch.
 cnx.close()
 cnx.close()
+
+// Just to make sure the connection is *really* closed...
+cnx.close()
